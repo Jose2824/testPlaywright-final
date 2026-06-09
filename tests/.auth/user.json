@@ -1,0 +1,61 @@
+{
+  "cookies": [
+    {
+      "name": "cf_clearance",
+      "value": "RpdslmlPDcKPP2pfp4qPJxm1D.uuMz2Z97xEQDISXsk-1780967049-1.2.1.1-YNc3XtKJF3FohFMhT.OTWqw_9RMwXZSV_n3f4EdePuHEYW9tDyXsAlWXKCk65K0Cw1cmbU6rBZbGLnIVSqfj7EIie7AvRRM4YsBZlEwr7tWM8g2bssvkdCSBT0is9jQ9n9MsfwzMb_V2wGzslepoAHfSwLFLb05lZF5SjygsOOvuACp8BY8x56hKQkCY.6iXV0vUQntSuMEPLbv92jz.rgBLcJ9HLcw0MGUCqAyHjSKgVJDf9u7M06H8EtXqWxwb7knBAnS5DaZHB27mUzeorp1098SXJSSQ3Ki1hq2BIKkGHvRQNOHTehNxmbXkmGTEg3MEbTPA7jJ74XQ4FMYQlA",
+      "domain": ".free.laravel.cloud",
+      "path": "/",
+      "expires": 1812503049.483587,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None",
+      "partitionKey": "https://free.laravel.cloud",
+      "_crHasCrossSiteAncestor": false
+    },
+    {
+      "name": "__cf_bm",
+      "value": "9rs.Mnpv.SxZcTq8u2.q1dt.pVan2P1HAc2eOrztIFw-1780967049.1019619-1.0.1.1-R_ZfgUZOE6mwJGlQ5Fdjs8PHwjjlKmFT7TXuYJi6aNfcPaUPCisFa8YONMWu5phgPY4pklM4Lkj7hogJ0h0omYRivDSiUJzFeDlQAXgzvCr8dq7Mfjvtq7xXWNUuSy7u",
+      "domain": ".free.laravel.cloud",
+      "path": "/",
+      "expires": 1780968849.483808,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "None"
+    },
+    {
+      "name": "XSRF-TOKEN",
+      "value": "eyJpdiI6IjNrZ2pEY3hoQTMrbGVtNGxWVnI5SkE9PSIsInZhbHVlIjoiUTE1NDZCYTFoY0NLTzdQSERha2llN1F5NTRCV3JlVXhsbDRRQVRFejVGTE9oZmtzeGw4NklTeU96dU1od2pKbzJ5cTFHRFVpdVdwajNUU3NLM0wydWV2V1I0bDU2RjcyMWFXUHdlanN0SEVCRmFpSjdUVkFCQ3pEanZrZjRjTisiLCJtYWMiOiI3ODZkMDUwMDhmZGM4MzA5ZmU3NWViN2M5ZDk5YzRkZDZiYWQ3MDljMmQ2MGEwMzliMjAzOTU1NzQzYjVlNzUxIiwidGFnIjoiIn0%3D",
+      "domain": "studylab.free.laravel.cloud",
+      "path": "/",
+      "expires": 1780974251.140112,
+      "httpOnly": false,
+      "secure": true,
+      "sameSite": "Lax"
+    },
+    {
+      "name": "studylab-session",
+      "value": "eyJpdiI6InZGTC9LdDRUT21jd3dsbWtZL3p0S2c9PSIsInZhbHVlIjoiSnpHZ1M2TDFkYncvMU55bUlOWittYXBNUHV0VVh1R0R2NitjbnpUTHhrL29nckpNb3Z1UGVSalpzaHNFK1JmSHYyWGpPQ3Y3ZXlWMUdZRFRRWFI0dFg4V1RHd3RTMWFpZ3pmL3hsZFZ3RWJZbENmYnlRN3VEc3p2WG5ZaFFEbEciLCJtYWMiOiJkZDEwODQ1OGFhNDM4YTViMjBiM2M0YmM1MDkwNDlhOGMyYmRiNGQzZTg1ZmViZGY4NGEyZjg0Mjg2MWQyNDJkIiwidGFnIjoiIn0%3D",
+      "domain": "studylab.free.laravel.cloud",
+      "path": "/",
+      "expires": 1780974251.140433,
+      "httpOnly": true,
+      "secure": true,
+      "sameSite": "Lax"
+    }
+  ],
+  "origins": [
+    {
+      "origin": "https://studylab.free.laravel.cloud",
+      "localStorage": [
+        {
+          "name": "user_cache",
+          "value": "{\"name\":\"Mateus e José teste playwright\",\"avatarUrl\":\"/images/avatars/animals/avt4.jpg\",\"role\":\"user\"}"
+        },
+        {
+          "name": "auth_token",
+          "value": "4562|8ONJH01NzUEKe2xwBV480EZ9MUcdXgFwkdf4ra1Q10c379a5"
+        }
+      ]
+    }
+  ]
+}
